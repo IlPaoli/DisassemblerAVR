@@ -61,21 +61,19 @@ On Mac or Linux:
 ### GUI
 
  - To open a file **click** on `Open...` under `File` in the top bar
-{ img }
+![GuiOpenFile](https://github.com/IlPaoli/DisassemblerAVR/assets/74500944/86e5ca1b-1d82-4294-be33-28f9f954591e)
 
  - Use the 'Disassemble' button at the bottom of the GUI to start the
    disassembly process.
-{ img }
+![GuiDisassembleFile](https://github.com/IlPaoli/DisassemblerAVR/assets/74500944/9685e003-b108-4e68-8dbe-8859c205e2da)
 ### Command Line
 
  - If you don't know the file full path you can simply use the command
    `PWD` or just **drag-n-drop** the file into the console
-{ img }
-
  - To disassemble the file, input the **file full path** and press
    **Enter**
- { img }
+ ![CommandLineFile](https://github.com/IlPaoli/DisassemblerAVR/assets/74500944/07bc5aa8-229d-49e6-8722-c4f0b58b5d49)
  
  
 ## LICENSE
-See LICENSE.md
+See [LICENSE](../LICENSE)
