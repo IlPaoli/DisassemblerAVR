@@ -400,3 +400,4 @@ FodyWeavers.xsd
 #custom
 imgui.ini
 *.DS_Store*
+.vscode
