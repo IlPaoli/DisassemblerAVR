@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Disassembler_win", "Deassembler_win.vcxproj", "{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		gui|x64 = gui|x64
+		gui|x86 = gui|x86
+		nogui debug|x64 = nogui debug|x64
+		nogui debug|x86 = nogui debug|x86
+		nogui|x64 = nogui|x64
+		nogui|x86 = nogui|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.gui|x64.ActiveCfg = gui|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.gui|x64.Build.0 = gui|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.gui|x86.ActiveCfg = gui|Win32
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.gui|x86.Build.0 = gui|Win32
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui debug|x64.ActiveCfg = nogui debug|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui debug|x64.Build.0 = nogui debug|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui debug|x86.ActiveCfg = nogui debug|Win32
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui debug|x86.Build.0 = nogui debug|Win32
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui|x64.ActiveCfg = nogui|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui|x64.Build.0 = nogui|x64
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui|x86.ActiveCfg = nogui|Win32
+		{4721AF6B-DDC3-4801-BFB0-47591FD48D4A}.nogui|x86.Build.0 = nogui|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFF90D2-8305-4669-8101-89A6D5295EA2}
+	EndGlobalSection
+EndGlobal
